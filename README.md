@@ -35,5 +35,5 @@ If you have any questions or suggestions, feel free to reach out to me at abdul3
 
 **Image File**: 
 ![Alt text](tribute/page1.png)
-![Alt text](tribute/page1.png)
+![Alt text](tribute/page2.png)
 
