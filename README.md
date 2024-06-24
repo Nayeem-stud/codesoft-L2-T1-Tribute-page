@@ -3,9 +3,6 @@
 ## Project Overview
 This project is a tribute page created as part of the CodSoft web development internship. The task was to create a visually appealing webpage dedicated to someone you admire, using HTML and CSS.
 
-## Live Demo
-Check out the live demo of the tribute page: [Tribute Page](https://example.com/tribute-page)
-
 ## Project Details
 - **Task**: Create a Tribute Page
 - **Technologies Used**: HTML, CSS
@@ -19,12 +16,12 @@ Check out the live demo of the tribute page: [Tribute Page](https://example.com/
   ## How to Use
 
 1. **Clone the Repository**:
-https://github.com/Nayeem-stud/codesoft-L2-T1-tribute.git
+https://github.com/Nayeem-stud/codesoft-L2-T1-Tribute-page.git
 
-2. **Navigate to the Project Directory**:
+3. **Navigate to the Project Directory**:
 cd codsoft-L1-T1-landingpage
 
-3. **Open index.html in Your Browser**:
+4. **Open index.html in Your Browser**:
 open index.html
 
 ## Live Demo
