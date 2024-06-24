@@ -19,7 +19,7 @@ Check out the live demo of the tribute page: [Tribute Page](https://example.com/
   ## How to Use
 
 1. **Clone the Repository**:
-https://github.com/Nayeem-stud/codesoft-L1-T1.git
+https://github.com/Nayeem-stud/codesoft-L2-T1-tribute.git
 
 2. **Navigate to the Project Directory**:
 cd codsoft-L1-T1-landingpage
@@ -28,7 +28,7 @@ cd codsoft-L1-T1-landingpage
 open index.html
 
 ## Live Demo
-Check out the live demo of the landing page [here]((https://codesoftl1t1.netlify.app/).
+Check out the live demo of the landing page [here]((https://codesoftl2t1.netlify.app/).
 
 ## Conclusion
 This project was a great way to apply basic HTML and CSS skills in a practical setting. It challenged me to think about layout, design, and user experience. I look forward to more advanced projects in the future.
@@ -37,6 +37,6 @@ This project was a great way to apply basic HTML and CSS skills in a practical s
 If you have any questions or suggestions, feel free to reach out to me at abdul3133@gmail.com.
 
 **Image File**: 
-![Alt text](LandingPage/page1.png)
-![Alt text](LandingPage/page2.png)
-![Alt text](LandingPage/page3.png)
+![Alt text](tribute/page1.png)
+![Alt text](tribute/page1.png)
+
